@@ -88,6 +88,7 @@
   
 ## Places I've Studied:
 * Hangzhou Foreign Languages School (2019.09 - 2022.06)
+* Stanford Pre-Collegiate Studies (2022.06 - 2022.08)
 * University of California, Berkeley (2023.06 - 2023.08)
 * University of California, San Diego (2022.08 - Current)
 
