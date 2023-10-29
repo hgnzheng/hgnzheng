@@ -8,7 +8,7 @@
 <p align="center">
   <em>
     I am a second year undergraduate at University of California, San Diego, double majoring in Math-CS and Data Science. <br>
-    I am Interested in <b>Artificial Inteligence and Machine Learning</b>,<br>especially in <b>Computer Vision</b> and <b>Optimization techniques</b>.
+    I am interested in <b>Artificial Intelligence and Machine Learning</b>,<br>especially in <b>Computer Vision</b> and <b>Optimization techniques</b>.
   </em> 
 </p>
 
@@ -22,9 +22,9 @@
 <a href="yoz018@ucsd.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/hargen-zheng-75540b218/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-- 💬 I’m currently working an Project to classify MBTI Personalities based on text data and make a chatbot to text back with the same personality.
+- 💬 I’m currently working on a Project to classify MBTI Personalities based on text data and make a chatbot to text back with the same personality.
 
-- 🔱 I’m currently on Triton Robotics Computer Vision Training Program where I learn basics of Robotics and relevant tools to train CV models.
+- 🔱 I’m currently on Triton Robotics Computer Vision Training Program where I learn basics of Robotics and relevant tools to train Computer Vision models.
 
 - 🧠 During 2023-24 Academic Year, I'm working on a research project "Pattern Analysis on EEG Data for Enhanced Depression Diagnosis" under the mentorship of Justin Eldridge.
 
