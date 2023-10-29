@@ -34,7 +34,7 @@
 
 - 🪀 Fun fact: **I have been playing Yo-Yo since December, 2014** and I have won several regional championships.
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 <p>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -56,7 +56,7 @@
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
-## 🔨 Development Tools:
+## 🔨 Development Tools
 <p>
 <img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 <img alt="Apple" src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/>
