@@ -7,8 +7,9 @@
 
 <p align="center">
   <em>
-    I'm a second year Math-CS and Data Science undergraduate at University of California, San Diego. <br>
-    Interested in <b>Artificial Inteligence and Machine Learning</b>,<br>especially in <b>Computer Vision</b> and <b>Optimization techniques</b>.
+    I am a second year undergraduate at University of California, San Diego, double majoring in Math-CS and Data Science. <br>
+    I am Interested in <b>Artificial Inteligence and Machine Learning</b>,<br>especially in <b>Computer Vision</b> and <b>Optimization techniques</b>. <br>
+    I want to become a <b>Machine Learning Engineer or Researcher<b> in the future.
   </em> 
 </p>
 
@@ -26,16 +27,16 @@
 
 - 🔱 I’m currently on Triton Robotics Computer Vision Training Program where I learn basics of Robotics and relevant tools to train CV models.
 
-- 🧠 During 2023-24 Academic Year, I'm working on a research project "Pattern Analysis on EEG Data for Enhanced Depression Diagnosis" under the mentorship of Dr. Eldridge.
+- 🧠 During 2023-24 Academic Year, I'm working on a research project "Pattern Analysis on EEG Data for Enhanced Depression Diagnosis" under the mentorship of Justin Eldridge.
 
 - 👨‍💻 My personal website is available at [https://hgnzheng.github.io/](https://hgnzheng.github.io/)
 
-- 📫 How to reach me **yoz018@ucsd.ed** or **hargen.zheng@berkeley.edu**.
+- 📫 How to reach me: **yoz018@ucsd.ed** or **hargen.zheng@berkeley.edu**.
 
-- 🪀 Fun fact **I have been playing Yo-Yo since December, 2014**.
+- 🪀 Fun fact **I have been playing Yo-Yo since December, 2014** and I have won several regional championships.
 
-💻 Tech Stack:
-<p align="center">
+## 💻 Tech Stack:
+<p>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
@@ -56,7 +57,7 @@
 <img alt="Open CV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
-🔨 Development Tools:
+## 🔨 Development Tools:
 <p>
 <img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 <img alt="Apple" src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/>
