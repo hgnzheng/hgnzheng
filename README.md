@@ -71,3 +71,16 @@
 <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/> -->
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
+
+<details>
+<summary>More Information.</summary>
+<br> 
+  
+ 
+## Places I've Studied:
+* Hangzhou Foreign Languages School (Hangzhou, China)
+* University of California, Berkeley
+* University of California, San Diego
+
+## Relative Coursework
+* Linear Algebra, Multivariable Calculus, Vector Calculus, Intro to Probability, Intro to Stochastic Processes, Concepts of Statistics, Theoretical Foundations of Data Science, Discrete Mathematics, Intro to Artificial Intelligence, Convex Optimization, Recommender Systems and Web Mining
