@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/hgnzheng/hargen-cover.png" height="200"/>
+  <img src="https://github.com/hgnzheng/hgnzheng/blob/main/hargen-cover.png" height="200"/>
 </p>
 <hr>
 <h1 align="center">Hi 👋, I'm Hargen Zheng</h1>
