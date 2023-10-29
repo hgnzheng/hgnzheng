@@ -72,14 +72,6 @@
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 
-<hr>
-<p align="center">
-    <i><b>GitHub Stats</b></i></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hgnzheng&show_icons=true&locale=en&layout=compact" alt="hgnzheng" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hgnzheng&show_icons=true&locale=en" alt="hgnzheng" width="410" /></p>
-<hr>
-
 <details>
 <summary>More Information.</summary>
 <br> 
