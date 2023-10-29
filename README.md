@@ -87,9 +87,9 @@
 <br> 
   
 ## Places I've Studied:
-* Hangzhou Foreign Languages School (Hangzhou, China)
-* University of California, Berkeley
-* University of California, San Diego
+* Hangzhou Foreign Languages School (2019.09 - 2022.06)
+* University of California, Berkeley (2023.06 - 2023.08)
+* University of California, San Diego (2022.08 - Current)
 
 ## Relevant Coursework
 * Linear Algebra, Multivariable Calculus, Vector Calculus, Intro to Probability, Intro to Stochastic Processes, Concepts of Statistics, Theoretical Foundations of Data Science, Discrete Mathematics, Data Structure, Design and Analysis of Algorithms, Intro to Artificial Intelligence, Convex Optimization, Recommender Systems and Web Mining
