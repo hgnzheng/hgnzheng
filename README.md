@@ -83,4 +83,4 @@
 * University of California, San Diego
 
 ## Relevant Coursework
-* Linear Algebra, Multivariable Calculus, Vector Calculus, Intro to Probability, Intro to Stochastic Processes, Concepts of Statistics, Theoretical Foundations of Data Science, Discrete Mathematics, Intro to Artificial Intelligence, Convex Optimization, Recommender Systems and Web Mining
+* Linear Algebra, Multivariable Calculus, Vector Calculus, Intro to Probability, Intro to Stochastic Processes, Concepts of Statistics, Theoretical Foundations of Data Science, Discrete Mathematics, Data Structure, Design and Analysis of Algorithms, Intro to Artificial Intelligence, Convex Optimization, Recommender Systems and Web Mining
