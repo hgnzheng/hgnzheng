@@ -32,7 +32,7 @@
 
 - 📫 How to reach me: **yoz018@ucsd.edu** or **hargen.zheng@berkeley.edu**.
 
-- 🪀 Fun fact **I have been playing Yo-Yo since December, 2014** and I have won several regional championships.
+- 🪀 Fun fact: **I have been playing Yo-Yo since December, 2014** and I have won several regional championships.
 
 ## 💻 Tech Stack:
 <p>
