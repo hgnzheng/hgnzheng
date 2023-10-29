@@ -3,13 +3,12 @@
 </p> -->
 <hr>
 <h1 align="center">Hi 👋, I'm Hargen Zheng</h1>
-<!-- <h3 align="center">Aspiring Machine Learning Engineer/Researcher | Software Engineer </h3> -->
+<h3 align="center">Aspiring Machine Learning Engineer/Researcher</h3>
 
 <p align="center">
   <em>
     I am a second year undergraduate at University of California, San Diego, double majoring in Math-CS and Data Science. <br>
-    I am Interested in <b>Artificial Inteligence and Machine Learning</b>,<br>especially in <b>Computer Vision</b> and <b>Optimization techniques</b>. <br>
-    I want to become a <b>Machine Learning Engineer or Researcher<b> in the future.
+    I am Interested in <b>Artificial Inteligence and Machine Learning</b>,<br>especially in <b>Computer Vision</b> and <b>Optimization techniques</b>.
   </em> 
 </p>
 
@@ -31,7 +30,7 @@
 
 - 👨‍💻 My personal website is available at [https://hgnzheng.github.io/](https://hgnzheng.github.io/)
 
-- 📫 How to reach me: **yoz018@ucsd.ed** or **hargen.zheng@berkeley.edu**.
+- 📫 How to reach me: **yoz018@ucsd.edu** or **hargen.zheng@berkeley.edu**.
 
 - 🪀 Fun fact **I have been playing Yo-Yo since December, 2014** and I have won several regional championships.
 
@@ -73,6 +72,14 @@
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 
+<hr>
+<p align="center">
+    <i><b>GitHub Stats</b></i></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hgnzheng&show_icons=true&locale=en&layout=compact" alt="hgnzheng" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hgnzheng&show_icons=true&locale=en" alt="hgnzheng" width="410" /></p>
+<hr>
+
 <details>
 <summary>More Information.</summary>
 <br> 
@@ -83,5 +90,5 @@
 * University of California, Berkeley
 * University of California, San Diego
 
-## Relative Coursework
+## Relevant Coursework
 * Linear Algebra, Multivariable Calculus, Vector Calculus, Intro to Probability, Intro to Stochastic Processes, Concepts of Statistics, Theoretical Foundations of Data Science, Discrete Mathematics, Intro to Artificial Intelligence, Convex Optimization, Recommender Systems and Web Mining
