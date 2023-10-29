@@ -7,7 +7,7 @@
 
 <p align="center">
   <em>
-    I am a second year undergraduate at University of California, San Diego, double majoring in Math-CS and Data Science. <br>
+    I am a second year undergrad at University of California, San Diego, double majoring in Math-CS and Data Science. <br>
     I am interested in <b>Artificial Intelligence and Machine Learning</b>,<br>especially in <b>Computer Vision</b> and <b>Optimization techniques</b>.
   </em> 
 </p>
