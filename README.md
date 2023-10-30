@@ -12,6 +12,7 @@
   </em> 
 </p>
 
+<!-- Credit to 1999AZZAR -->
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -26,7 +27,7 @@
 
 - 🔱 I’m currently on Triton Robotics Computer Vision Training Program where I learn basics of Robotics and relevant tools to train Computer Vision models.
 
-- 🧠 During 2023-24 Academic Year, I'm working on a research project "Pattern Analysis on EEG Data for Enhanced Depression Diagnosis" under the mentorship of Justin Eldridge.
+- 🧠 During 2023-24 Academic Year, I'm working on a research project "Pattern Analysis on EEG Data for Enhanced Depression Diagnosis" under the mentorship of [Justin Eldridge](https://eldridgejm.github.io/).
 
 - 👨‍💻 My personal website is available at [https://hgnzheng.github.io/](https://hgnzheng.github.io/)
 
@@ -85,7 +86,7 @@
 <details>
 <summary>More Information.</summary>
 <br> 
-  
+
 ## Places I've Studied:
 * Hangzhou Foreign Languages School (2019.09 - 2022.06)
 * Stanford Pre-Collegiate Studies (2022.06 - 2022.08)
