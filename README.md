@@ -31,7 +31,7 @@
 
 - 👨‍💻 My personal website is available at [https://hgnzheng.github.io/](https://hgnzheng.github.io/)
 
-- 📫 How to reach me: **yoz018@ucsd.edu** or **hargen.zheng@berkeley.edu**.
+- 📫 How to reach me: **hgzheng@ucsd.edu** or **hargen.zheng@berkeley.edu**.
 
 - 🪀 Fun fact: **I have been playing Yo-Yo since December, 2014** and I have won several regional championships.
 
