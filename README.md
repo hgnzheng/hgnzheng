@@ -7,7 +7,7 @@
 
 <p align="center">
   <em>
-    I am a second year undergrad at University of California, San Diego, double majoring in Math-CS and Data Science. <br>
+    I am a sophomore at University of California, San Diego, double majoring in Math-CS and Data Science. <br>
     I am interested in <b>Artificial Intelligence and Machine Learning</b>,<br>especially in <b>Computer Vision</b> and <b>Optimization techniques</b>.
   </em> 
 </p>
@@ -29,7 +29,7 @@
 
 - 🧠 During 2023-24 Academic Year, I'm working on a research project "Pattern Analysis on EEG Data for Enhanced Depression Diagnosis" under the mentorship of [Justin Eldridge](https://eldridgejm.github.io/).
 
-- 👨‍💻 My personal website is available at [https://hgnzheng.github.io/](https://hgnzheng.github.io/)
+- 👨‍💻 My personal website is available at [https://hgnzheng.github.io/](https://hgnzheng.github.io/).
 
 - 📫 How to reach me: **hgzheng@ucsd.edu** or **hargen.zheng@berkeley.edu**.
 
@@ -88,10 +88,14 @@
 <br> 
 
 ## Places I've Studied:
-* Hangzhou Foreign Languages School (2019.09 - 2022.06)
+* Hangzhou Foreign Languages School -- Hangzhou, China (2019.09 - 2022.06)
 * Stanford Pre-Collegiate Studies (2022.06 - 2022.08)
 * University of California, Berkeley (2023.06 - 2023.08)
 * University of California, San Diego (2022.08 - Current)
 
 ## Relevant Coursework
-* Linear Algebra, Multivariable Calculus, Vector Calculus, Intro to Probability, Intro to Stochastic Processes, Concepts of Statistics, Theoretical Foundations of Data Science, Discrete Mathematics, Data Structure, Design and Analysis of Algorithms, Intro to Artificial Intelligence, Convex Optimization, Recommender Systems and Web Mining
+* **Basic Math:** Linear Algebra, Multi-variable Calculus, Vector Calculus, Discrete Mathematics, Mathematics for Algorithms and Systems
+* **More Math:** Intro to Probability, Intro to Stochastic Processes, Concepts of Statistics (@Berkeley), Convex Optimization, Non-Convex Optimization
+* **Computer Science:** Basic Data Structures and Object-Oriented Design, Software Tools and Techniques Laboratory, Computer Organization and Systems Programming, Design and Analysis of Algorithms
+* **Data Science:** Principles of Data Science, Programming and Basic Data Structures for Data Science, Theoretical Foundations of Data Science
+* **Machine Learning Specific:** Intro to Artificial Intelligence (@Berkeley), Recommender Systems and Web Mining, Intro to Machine Learning, Deep Learning, Intro to Computer Vision
