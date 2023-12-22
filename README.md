@@ -94,7 +94,7 @@
 * University of California, San Diego (2022.08 - Current)
 
 ## Relevant Coursework
-* **Basic Math:** Linear Algebra, Multi-variable Calculus, Vector Calculus, Discrete Mathematics, Mathematics for Algorithms and Systems
+* **Basic Math:** Linear Algebra, Multi-variable Calculus, Differential Equations, Vector Calculus, Discrete Mathematics, Mathematics for Algorithms and Systems
 * **More Math:** Intro to Probability, Intro to Stochastic Processes, Concepts of Statistics (@Berkeley), Convex Optimization, Non-Convex Optimization
 * **Computer Science:** Basic Data Structures and Object-Oriented Design, Software Tools and Techniques Laboratory, Computer Organization and Systems Programming, Design and Analysis of Algorithms
 * **Data Science:** Principles of Data Science, Programming and Basic Data Structures for Data Science, Theoretical Foundations of Data Science
