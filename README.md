@@ -7,7 +7,7 @@
 
 <p align="center">
   <em>
-    I am a sophomore at University of California, San Diego, double majoring in Math-CS and Data Science. <br>
+    I am a sophomore at University of California, San Diego, double majoring in Data Science and Mathematics-Computer Science. <br>
     I am interested in <b>Artificial Intelligence and Machine Learning</b>,<br>especially in <b>Computer Vision</b> and <b>Optimization techniques</b>.
   </em> 
 </p>
@@ -15,17 +15,15 @@
 <!-- Credit to 1999AZZAR -->
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
+  </a>
 </div>
 
 <p align="left">
 <a href="hgzheng@ucsd.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="hargen.zheng@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/hargen-zheng-75540b218/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-- 💬 I’m currently working on a Project to classify MBTI Personalities based on text data and make a chatbot to text back with the same personality.
-
-- 🔱 I’m currently on Triton Robotics Computer Vision Training Program where I learn basics of Robotics and relevant tools to train Computer Vision models.
+- ⚒️ I’m currently serving as a project lead for a Facial Emotion Recognition project under Data Science Student Society (DS3) at UC San Diego.
 
 - 🧠 During 2023-24 Academic Year, I'm working on a research project "Pattern Analysis on EEG Data for Enhanced Depression Diagnosis" under the mentorship of [Justin Eldridge](https://eldridgejm.github.io/).
 
@@ -61,6 +59,7 @@
 <p>
 <img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 <img alt="Apple" src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/>
+<img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img  alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
 <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
@@ -95,7 +94,7 @@
 
 ## Relevant Coursework
 * **Basic Math:** Linear Algebra, Multi-variable Calculus, Differential Equations, Vector Calculus, Discrete Mathematics, Mathematics for Algorithms and Systems
-* **More Math:** Intro to Probability, Intro to Stochastic Processes, Concepts of Statistics (@Berkeley), Convex Optimization, Non-Convex Optimization
+* **More Math:** Intro to Probability, Intro to Stochastic Processes, Concepts of Statistics (@Berkeley), Optimization Methods for Data Science I/II
 * **Computer Science:** Basic Data Structures and Object-Oriented Design, Software Tools and Techniques Laboratory, Computer Organization and Systems Programming, Design and Analysis of Algorithms
 * **Data Science:** Principles of Data Science, Programming and Basic Data Structures for Data Science, Theoretical Foundations of Data Science
-* **Machine Learning Specific:** Intro to Artificial Intelligence (@Berkeley), Recommender Systems and Web Mining, Intro to Machine Learning, Deep Learning, Intro to Computer Vision
+* **Machine Learning Specific:** Intro to Artificial Intelligence (@Berkeley), Recommender Systems and Web Mining, Principles of Machine Learning: Learning Algorithms, Deep Learning, Intro to Computer Vision
