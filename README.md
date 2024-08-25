@@ -2,13 +2,12 @@
   <img src="https://github.com/hgnzheng/hgnzheng/blob/main/hargen-cover.png" height="200"/>
 </p> -->
 <hr>
-<h1 align="center">Hi 👋, I'm Hargen Zheng</h1>
-<h3 align="center">NLP Undergraduate Researcher</h3>
+<h1 align="center">Hi 👋, I'm Hargen (Youze) Zheng</h1>
+<h3 align="center">I do research about LLMs</h3>
 
 <p align="center">
   <em>
     I am a junior at University of California, San Diego, double majoring in Data Science and Mathematics-Computer Science. <br>
-    I am interested in <b>Artificial Intelligence and Machine Learning</b>,<br>especially in <b>Large Language Models (LLMs)</b>.
   </em> 
 </p>
 
@@ -21,7 +20,7 @@
 <a href="yoz018@ucsd.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="hargen.zheng@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/hgznnn/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-- ⚒️ I'm doing research in the [Laboratory for Emerging Intelligence (LEI)](https://lei.ucsd.edu/).
+- ⚒️ I'm work in the [Laboratory for Emerging Intelligence (LEI)](https://lei.ucsd.edu/).
 
 - 👨‍💻 My personal website is live at [https://hgnzheng.github.io/](https://hgnzheng.github.io/).
 
