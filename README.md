@@ -3,7 +3,7 @@
 </p> -->
 <hr>
 <h1 align="center">Hi 👋, I'm Hargen (Youze) Zheng</h1>
-<h3 align="center">I research Large Language Models</h3>
+<h3 align="center">I do research in NLP</h3>
 
 <p align="center">
   <em>
