@@ -2,12 +2,12 @@
   <img src="https://github.com/hgnzheng/hgnzheng/blob/main/hargen-cover.png" height="200"/>
 </p> -->
 <hr>
-<h1 align="center">Hi 👋, I'm Hargen (Youze) Zheng</h1>
-<h3 align="center">I do research in NLP</h3>
+<h1 align="center">Hi 👋, I'm Youze "Hargen" Zheng</h1>
+<h3 align="center">I do research in AI/ML/NLP</h3>
 
 <p align="center">
   <em>
-    I am a junior at University of California, San Diego, double majoring in Data Science and Mathematics-Computer Science. <br>
+    I am a senior at University of California, San Diego, double majoring in Data Science and Mathematics-Computer Science. <br>
   </em> 
 </p>
 
