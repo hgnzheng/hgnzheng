@@ -3,7 +3,7 @@
 </p> -->
 <hr>
 <h1 align="center">Hi 👋, I'm Youze "Hargen" Zheng</h1>
-<h3 align="center">I do research in AI/ML/NLP</h3>
+<h3 align="center">Research in NLP/LLM</h3>
 
 <p align="center">
   <em>
@@ -22,7 +22,7 @@
 
 - ⚒️ I'm work in the [Laboratory for Emerging Intelligence (LEI)](https://lei.ucsd.edu/).
 
-- 👨‍💻 My personal website is live at [https://hgnzheng.github.io/](https://hgnzheng.github.io/).
+- 👨‍💻 My personal website is live at [https://www.hargenzheng.com/](https://www.hargenzheng.com/).
 
 - 📫 How to reach me: **yoz018@ucsd.edu**.
 
