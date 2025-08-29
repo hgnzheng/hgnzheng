@@ -20,7 +20,7 @@
 <a href="mailto:yoz018@ucsd.edu"><img alt="UCSD Email" src="https://img.shields.io/badge/UCSD%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="mailto:hargen.zheng@gmail.com"><img alt="Personal Email" src="https://img.shields.io/badge/Personal%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/hgznnn/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://www.hargenzheng.com/"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
-I am a senior at University of California, San Diego, double majoring in Data Science and Mathematics-Computer Science.
+I am a senior at UC San Diego, double majoring in Data Science and Mathematics-Computer Science.
 
 - ⚒️ I work in the [Laboratory for Emerging Intelligence (LEI)](https://lei.ucsd.edu/) at UC San Diego. We do exciting research in natural language processing and large language models in scientific domains.
 
