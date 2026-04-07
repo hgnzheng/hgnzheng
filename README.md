@@ -22,7 +22,7 @@
 
 I am an incoming Ph.D. student in Computer Science at the University of California, San Diego, where I will be advised by Prof. Mohan Paturi.
 
-I am wrapping up my undergraduate studies at UC San Diego with a double major in Data Science (B.S.) and Mathematics-Computer Science (B.S.). Currently,I am a research assistant in the Laboratory for Emerging Intelligence, advised by Prof. Leon Bergen and Prof. Mohan Paturi.
+I am wrapping up my undergraduate studies at UC San Diego with a double major in Data Science (B.S.) and Mathematics-Computer Science (B.S.). Currently, I am a research assistant in the Laboratory for Emerging Intelligence, advised by Prof. Leon Bergen and Prof. Mohan Paturi.
 
 - 👨‍💻 Personal website: [https://www.hargenzheng.com/](https://www.hargenzheng.com/).
 
