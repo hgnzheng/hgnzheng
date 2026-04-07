@@ -2,7 +2,7 @@
   <img src="https://github.com/hgnzheng/hgnzheng/blob/main/hargen-cover.png" height="200"/>
 </p> -->
 <hr>
-<h1 align="center">My name is Youze "Hargen" Zheng</h1>
+<h1 align="center">Youze "Hargen" Zheng</h1>
 <!-- <h3 align="center">NLP/LLM Researcher</h3> -->
 
 <!-- <p align="center">
