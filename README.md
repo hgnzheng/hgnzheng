@@ -20,7 +20,7 @@
 <a href="mailto:yoz018@ucsd.edu"><img alt="UCSD Email" src="https://img.shields.io/badge/UCSD%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="mailto:hargen.zheng@gmail.com"><img alt="Personal Email" src="https://img.shields.io/badge/Personal%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/hgznnn/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://www.hargenzheng.com/"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p> -->
 
-I am an incoming PhD student in Computer Science at UC San Diego, advised by Ramamohan Paturi. I work on scientific reasoning in language models and develop methods for AI-driven scientific discovery.
+I am a CS PhD student at UC San Diego, advised by Ramamohan Paturi. I work on scientific reasoning in language models and develop methods for AI-driven scientific discovery.
 
 I did my bachelor's at UC San Diego as well.
 
