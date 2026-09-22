@@ -24,9 +24,9 @@ I am a CS PhD student at UC San Diego, advised by Ramamohan Paturi. I work on sc
 
 I did my bachelor's at UC San Diego as well.
 
-- 👨‍💻 Personal website: [https://www.hargenzheng.com/](https://www.hargenzheng.com/).
+- 👨‍💻 Personal website: [https://cseweb.ucsd.edu/~yoz018/](https://cseweb.ucsd.edu/~yoz018/).
 
-- 📫 Preferred contact: **yoz018@ucsd.edu**.
+- 📫 Preferred contact: **youzezheng@ucsd.edu**.
 
 - 🪀 Fun fact: I have been playing yo-yo since December 2014 and have won several regional championships.
 
